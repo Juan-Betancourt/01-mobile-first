@@ -1,0 +1,41 @@
+body {
+    line-height: 1.5;
+    font-size: 100%;
+    color: #313131;
+}
+
+body>header {
+    background: #FFEAAA;
+}
+
+main {
+    margin: 0 20px;
+}
+
+p {
+    font-size: 1em;
+}
+
+select {
+    width: 90%;
+    margin: .2em 5%;
+}
+
+img {
+    max-width: 100%;
+}
+
+hr {
+    margin: 1em;
+    width: 80%;
+}
+
+#filters {
+    padding: 0;
+    list-style: none;
+}
+
+.icon-menu {
+    font-size: 3em;
+    float: right;
+}
